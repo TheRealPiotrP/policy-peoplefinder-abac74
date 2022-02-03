@@ -6,3 +6,4 @@ default visible = true
 
 default enabled = true
 # 0.0.6-dirty
+# 0.0.7
