@@ -5,3 +5,6 @@ default allowed = true
 default visible = true
 
 default enabled = true
+`# {sver -n patch}`
+# `{sver -n patch}`
+# 0.0.1-dirty
