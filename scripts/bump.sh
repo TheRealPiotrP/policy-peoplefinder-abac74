@@ -1,3 +1,4 @@
+#!/usr/bin/zsh 
 for i in {1..40} 
 do
   echo "Running step $i"
