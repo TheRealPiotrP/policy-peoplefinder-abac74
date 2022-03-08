@@ -35,3 +35,4 @@ default enabled = true
 # 0.0.33-dirty
 # 0.0.34
 # 0.0.35
+# 0.0.36-dirty
